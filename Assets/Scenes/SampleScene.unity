@@ -510,6 +510,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hexRadius: 0.5
+  isWalkable: 1
+  gridPosition: {x: 0, y: 0}
+  movementCost: 1
 --- !u!1 &449129169
 GameObject:
   m_ObjectHideFlags: 0
